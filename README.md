@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋 
+
+These are my keywords:
+
+Civic-minded, curious, realist, 📚, 🤔, economics, ☕️, 🏖, politics, 🏉, optimist, tech, cybersecurity, empathy, make a difference. In no particular order.
 
 <!--
 **themediapot/themediapot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
